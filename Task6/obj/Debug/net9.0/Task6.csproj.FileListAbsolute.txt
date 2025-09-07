@@ -12,3 +12,4 @@
 /Users/uzomaki/Documents/Dunwoody/Fall2025/ApplicationDesignOne/Homework1/Task6/obj/Debug/net9.0/Task6.pdb
 /Users/uzomaki/Documents/Dunwoody/Fall2025/ApplicationDesignOne/Homework1/Task6/obj/Debug/net9.0/Task6.genruntimeconfig.cache
 /Users/uzomaki/Documents/Dunwoody/Fall2025/ApplicationDesignOne/Homework1/Task6/obj/Debug/net9.0/ref/Task6.dll
+/Users/uzomaki/Documents/Dunwoody/Fall2025/ApplicationDesignOne/Homework1/Task6/obj/Debug/net9.0/Task6.sourcelink.json
